@@ -1,0 +1,8 @@
+.order-list {
+    width: 90%;
+    margin: 2rem auto;
+    border-radius: 15px;
+    padding: 0.1rem;
+    border: 1px solid black;
+    box-shadow: black 2px 1px 10px;
+}

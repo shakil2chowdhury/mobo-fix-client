@@ -1,0 +1,10 @@
+.header-main {
+    background: url('https://www.cnet.com/a/img/hKiLu4x6fAe-APSgIzvv1c_a4ys=/940x528/2020/05/02/d6373e04-6033-44c2-a8dc-d43aa6da674a/samsung-galaxy-a51.jpg'), linear-gradient(45deg ,#000000, #000000); 
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-mask {
+    background-color: rgba(0, 0, 0, 0.6);
+}
